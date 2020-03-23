@@ -1,0 +1,26 @@
+{
+  "name": "sparkledown",
+  "version": "1.0.1",
+  "description": "Convert * to ✨in markdown documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sparkledown": "./bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeesto/sparkledown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeesto/sparkledown/issues"
+  },
+  "homepage": "https://github.com/mikeesto/sparkledown#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
