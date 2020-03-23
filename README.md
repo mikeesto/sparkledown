@@ -1,6 +1,6 @@
 # ✨Sparkledown✨
 
-Convert * to ✨in markdown documents.
+Convert *emphasis* to ✨emphasis✨ in markdown documents.
 
 ## How to use
 
